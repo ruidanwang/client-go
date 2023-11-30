@@ -1,4 +1,4 @@
-module kubevirt.io/client-go
+module github.com/ruidanwang/client-go
 
 go 1.20
 

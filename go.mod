@@ -1,6 +1,6 @@
 module kubevirt.io/client-go
 
-go 1.17
+go 1.20
 
 require (
 	github.com/go-kit/kit v0.10.0
@@ -18,7 +18,7 @@ require (
 	k8s.io/api v0.28.1
 	k8s.io/apiextensions-apiserver v0.28.1
 	k8s.io/apimachinery v0.28.1
-	k8s.io/client-go v12.0.0+incompatible
+	k8s.io/client-go v0.27.4
 	k8s.io/kube-openapi v0.0.0-20230905202853-d090da108d2f
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
 	kubevirt.io/api v0.0.0-20231126201403-7555773dfa13
